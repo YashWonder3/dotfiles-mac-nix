@@ -1,4 +1,4 @@
-# How I Built a Reproducible Mac Setup with Nix
+# How I Built a Reproducible Mac Setup with Nix !
 
 Setting up a new Mac always sounds easier than it actually is.
 
