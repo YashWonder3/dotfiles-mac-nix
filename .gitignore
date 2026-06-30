@@ -3,6 +3,3 @@ logs/*.log
 
 # Ignore any stray log files at repo root
 *.log
-
-# Local project directories
-my-project/
