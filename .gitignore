@@ -1,0 +1,8 @@
+# Tmux log files — kept in logs/ folder, never committed
+logs/*.log
+
+# Ignore any stray log files at repo root
+*.log
+
+# Local project directories
+my-project/
